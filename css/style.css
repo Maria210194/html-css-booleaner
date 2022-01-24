@@ -1,0 +1,16 @@
+#header{
+    background-color: rgba(78,160,255,255);
+}
+
+.logo{
+    width: 100px;
+}
+
+.pattern{
+    width: 110px;
+    background-repeat: repeat-x;
+}
+
+.Titolo-principale{
+    width: 65%;
+}
